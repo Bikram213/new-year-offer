@@ -15,6 +15,7 @@
    margin: 50px auto;
 
    background-size: cover;
+   border-radius: 10px;
 }
 
 .banner-content{
@@ -34,3 +35,76 @@
     font-size: 72px;
 
  } 
+
+ /* discount styling */
+.about-discount{
+    text-align: center;
+    margin: 120px 259px;
+}
+.about-discount h1{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bold;
+    line-height: auto;
+}
+
+.about-discount h2{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: auto;
+}
+
+.about-discount h3{
+    color: #070211;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: auto;
+}
+
+.about-discount img{
+    width: 800px;
+    height: 500px;
+    margin-top: 48px;
+}
+
+/* midnight party styling */
+.midnight-party{
+    background-image: url(../images/Vectorrr.png);
+    height: 600px;
+    width: 1320px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 120px auto;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.midnight-party h1{
+    color: white;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+}
+.midnight-party p{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    width: 697px;
+
+}
+.midnight-party button{
+    /* text-decoration: none; */
+    color: white;
+    background-color: blue;  /* example red background */
+    border: none;
+    padding: 12px 24px;
+    font-size: 20px;
+    font-weight: bold;
+     cursor: pointer;
+     margin-left: 158px;
+     margin-top: 48px;
+}
