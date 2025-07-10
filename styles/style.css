@@ -1,0 +1,36 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* new year party celebration styles */
+.new-year-greet{
+    background: url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+   margin: 50px auto;
+
+   background-size: cover;
+}
+
+.banner-content{
+    padding: 177px 344px;
+}
+
+.new-year-greet h3{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+   
+ }
+
+.new-year-greet h1{
+    color: white;
+    text-align: center;
+    font-size: 72px;
+
+ } 
