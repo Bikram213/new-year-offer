@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 
 .inter-normal {
   font-family: "Inter", sans-serif;
@@ -99,7 +105,7 @@
 .midnight-party button{
     /* text-decoration: none; */
     color: white;
-    background-color: blue;  /* example red background */
+    background-color: blue;  
     border: none;
     padding: 12px 24px;
     font-size: 20px;
@@ -108,3 +114,100 @@
      margin-left: 158px;
      margin-top: 48px;
 }
+
+/* join now section styling */
+.join-hotel{
+    width: 1320px;
+    /* height: 483px; */
+    
+}
+.join-hotel div{
+    margin: 0px 385px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.join-hotel span{
+    color: #FF0000;
+}
+.join-hotel h3{
+    color: #070211;
+    font-size: 32;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.join-hotel button{
+    background-color: #FF0000;
+    color: white;
+    height: 56px;
+    width: 167px;
+    border-radius: 8px;
+}
+
+/* best offer coming section styling */
+.best-offer{
+    height: 600px;
+    width: 1320px;
+   margin: 0px auto;
+
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.best-offer .div1{
+    width: 393px;
+    text-align: left;
+}
+
+.best-offer .div2{
+    width: 463px;
+    height: 463px;
+    text-align: center;
+
+}
+
+.best-offer .div3{
+    width: 276px;
+    
+}
+
+.div1 h4{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 600px;
+    margin-bottom: 10px;
+}
+
+.div1 h2{
+    color:#070211;
+    font-size: 48px;
+    font-weight: 800px;
+    margin-bottom: 10px;
+}
+
+.div1 p2{
+    color:#070211;
+    font-size: 20px;
+    font-weight: 400px;
+    margin-bottom: 10px;
+}
+
+.div3 h3{
+    color:#FF0000;
+    font-size: 48px;
+    font-weight: 800px;
+    margin-bottom: 10px;
+}
+
+.div3 p{
+    color:#070211;
+    font-size: 20px;
+    font-weight: 00px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
