@@ -206,7 +206,55 @@
     font-weight: 00px;
     margin-bottom: 10px;
 }
+/* functional styles */
 
+.functional{
+     height: 600px;
+    width: 1320px;
+   margin: 0px auto;
+}
+
+.function-content h4{
+    color: #070211;
+    text-align: center;
+    font-weight: 600px;
+    font-size: 24px;
+}
+
+.function-content h2{
+     color: #070211;
+    text-align: center;
+    font-weight: 600px;
+    font-size: 72px;
+    margin: 16px 0px;
+
+}
+
+.function-content h2 span{
+    color: #FF0000;
+}
+.function-content p{
+    color: #070211;
+    text-align: center;
+    font-weight: 600px;
+    font-size: 20px;
+     margin: 16px 0px;
+     margin-bottom: 64px;
+}
+
+.function-image {
+    /*  */
+        /* margin-top: 497px; */
+        background: url(../images/Rectangle\ 2.png);
+        width: 1320;
+        height: 229px;
+        margin-top: 497px;
+
+}
+
+.function-image .box{
+    
+}
 
 
 
